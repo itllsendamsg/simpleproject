@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8bef3b-eb60-43a0-9d55-7644bec4b053" name="Changes" comment="14 12 22 ENHKX Lifeline Drone: Commit #1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b8bef3b-eb60-43a0-9d55-7644bec4b053" name="Changes" comment="14 12 22 ENHKX Lifeline Drone: Commit #2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +18,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671054802775</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="14 12 22 ENHKX Lifeline Drone: Commit #2">
+      <created>1671055647074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671055647074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,7 +117,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="newBranch" />
+                        <option value="origin/newBranch" />
                       </list>
                     </value>
                   </entry>
@@ -126,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="14 12 22 ENHKX Lifeline Drone: Commit #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="14 12 22 ENHKX Lifeline Drone: Commit #1" />
+    <MESSAGE value="14 12 22 ENHKX Lifeline Drone: Commit #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 12 22 ENHKX Lifeline Drone: Commit #2" />
   </component>
 </project>
